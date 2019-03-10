@@ -1,6 +1,5 @@
 # IRS-MR-2019-01-19-IS1PT-IND-DavidYam-Process
 
-Steps:
 From KIE workbench, import this project via:
 1) Click menu function 'Import Project'
 2) For Repository URL, key in file://<filepath>/edited-Mortgage_Process
