@@ -17,6 +17,6 @@
 ### Note: This Process was created by following the Machine Reasoning Workshops 1-3.
 
 This Process differs from Workshop 3 in that: 
-It has both checkboxs "inlimit Machine Reasoning" & "inlimit Machine Reasoning DT" exposed.
+- It has both checkboxs "inlimit Machine Reasoning" & "inlimit Machine Reasoning DT" exposed.
 
 This was done for more ease of understanding from the approver, because each inlimit has slightly different underlying logic.
